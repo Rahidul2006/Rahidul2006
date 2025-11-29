@@ -1,3 +1,9 @@
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=460&lines=Hey+I'm+Rahidul+Khan+%3C%2F%3E" alt="Typing SVG" /></a>
+</h3>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
 ### 💫 About Me:
 🔭 I’m Btech CSE student<br>🌱 I’m currently learning Fullstack<br>📚 Reading books and documentation <br>👩🏻‍💻Well Learner and Good Listener <br>
 
