@@ -28,9 +28,10 @@
 
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rahidul2006&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rahidul2006&theme=blue-green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahidul2006&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Rahidul2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rahidul2006&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahidul2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -54,7 +55,15 @@
 Here are some ideas to get you started:
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rahidul2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rahidul2006&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahidul2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Rahidul2006&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 - 🔭 I’m currently working on ...
